@@ -15,25 +15,7 @@
 		</ul>
 		
 		<p><h1 align="center" > <font color="black"> Welcome to our traveling website!
-		<br> Come travel with us</h1> </font>
-		<p> “The world is a book, and those who do not travel read only one page.”
-		<p> Let's travel darling</p>
-
-		<OL TYPE=“square”>
-			<LI> Brazil </LI> <br/>			
-			<LI> Somalia </LI> <br/>
-			<LI> China </LI> <br/>
-			<LI> Spain </LI> <br/>
-		</OL>
 		
-		<br>
-		<h2>If Your Interested Send Us An E-mail!:</h2>
-		<form action="mailto:mumtaz.yusuf.j@hotmail.co.uk" method="post" enctype="text/plain"> 
-			Name:<br> <input type="text" name="name"><br><br>
-			E-mail:<br><input type="text" name="mail"><br><br>
-			Comment:<br><input type="text" name="comment" size="20"><br><br>
-			<input type="submit" value="Send">
-			<input type="reset" value="Reset">
-		</form>
+		
 	</body>		
 </html>

@@ -7,8 +7,8 @@
 	
 	<body>
 		<ul> <font color="white">
-			<li><a href="example of from.html.asp">Home</a></li>
-  			<li><a href="example of form.html">Destinations</a></li>
+			<li><a href="index.asp">Home</a></li>
+  			<li><a class="active" href="index.html">Destinations</a></li>
 			<li><a href="contact.asp">Contact</a></li>
  	 		<li><a href="about.asp">About</a></li> </font>
 		</ul>

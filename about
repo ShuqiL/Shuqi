@@ -6,10 +6,10 @@
 	
 	<body>
 		<ul> <font color="white">
-			<li><a href="home.html">Home</a></li>
-  			<li><a href="dest.html">Destinations</a></li>
-			<li><a href="contact.html">Contact</a></li>
- 	 		<li><a href="about.html">About</a></li> </font>
+			<li><a href="index.html">Home</a></li>
+  			<li><a href="index.html">Destinations</a></li>
+			<li><a href="index.html">Contact</a></li>
+ 	 		<li><a href="index.html">About</a></li> </font>
 		</ul>
 		
 		<p><h1 align="center" > <font color="black"> Welcome to our traveling website!
